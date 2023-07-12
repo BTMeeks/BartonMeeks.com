@@ -4,3 +4,7 @@ Category: TestPost
 
 Yet another test posting.
 
+Why do computers make me cry?
+
+![Spock cries in front of computer]({static}/images/spock-computer-cry.gif)
+
